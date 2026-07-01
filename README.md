@@ -1,1 +1,2 @@
-# CMC-Dr.-Correo-Hofstad-Cancer-Moonshot-Portfolio
+# Dr.-Correo-Hofstad-Resume
+Dr. Correo "Cory" A. Hofstad is a U.S. Navy veteran and physician-scientist specializing in the intersection of advanced clinical medicine, robotic bio-defense engineering, and naval materials science. He has a proven track record leading high-stakes medical-technical operations, including the development of autonomous CBRN detection systems and the management of complex material logistics in maritime environments. For a detailed view of his experience, you can read the resume summary above.
